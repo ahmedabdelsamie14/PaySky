@@ -1,0 +1,21 @@
+1- Make Sure That You Don't Have Database Called EmploymentSystemApplicationDB in your SQLServer Databases
+
+2- Open Package Manager Console And Make Sure You Are In Infrastructure Project And Write Command "Update-Database" To Apply Migrations And Create The Database
+
+3- I Applied Archticture Design Pattern => Clean Architecture
+
+4- I Applied Logging , Caching And Security Like Handling Error , Hashing Password And Policy Based Authorization As Well As JWT Authentication
+
+5- With This File I'll Attach Postman File To Import Will Contain All Test Cases To Most Of The End-Points 
+	1- Register Both Employer And Applicant
+	2- Login
+	3- CRUD Vacancies
+	4- Search For Vacancy As Applicant
+	5- Apply On Vacancy As Applicant
+	6- Cases Like Apply Twice Within Day
+	7- Cases Like Apply On Full Vacancy
+And Other Test Cases All You Do As Just Send The Request (Prefer To Do It In Same Sequence Because Of Auth)
+Also Handled Archeiving Mechanism
+
+
+I Used .NET Core Version 6

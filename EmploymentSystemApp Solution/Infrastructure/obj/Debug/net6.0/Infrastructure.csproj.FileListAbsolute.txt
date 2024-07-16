@@ -1,0 +1,38 @@
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\bin\Debug\net6.0\Application.dll
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\bin\Debug\net6.0\Core.dll
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\bin\Debug\net6.0\Application.pdb
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\bin\Debug\net6.0\Core.pdb
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+D:\VisualProjects\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\bin\Debug\net6.0\Application.dll
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\bin\Debug\net6.0\Core.dll
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\bin\Debug\net6.0\Application.pdb
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\bin\Debug\net6.0\Core.pdb
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

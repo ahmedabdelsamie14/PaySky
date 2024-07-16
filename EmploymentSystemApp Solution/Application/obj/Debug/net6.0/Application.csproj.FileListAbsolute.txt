@@ -1,0 +1,30 @@
+D:\VisualProjects\EmploymentSystemApp Solution\Application\bin\Debug\net6.0\Application.deps.json
+D:\VisualProjects\EmploymentSystemApp Solution\Application\bin\Debug\net6.0\Application.dll
+D:\VisualProjects\EmploymentSystemApp Solution\Application\bin\Debug\net6.0\Application.pdb
+D:\VisualProjects\EmploymentSystemApp Solution\Application\bin\Debug\net6.0\Core.dll
+D:\VisualProjects\EmploymentSystemApp Solution\Application\bin\Debug\net6.0\Core.pdb
+D:\VisualProjects\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\VisualProjects\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualProjects\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\VisualProjects\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\VisualProjects\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\VisualProjects\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\VisualProjects\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\Application.dll
+D:\VisualProjects\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\refint\Application.dll
+D:\VisualProjects\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\Application.pdb
+D:\VisualProjects\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Application\bin\Debug\net6.0\Application.dll
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Application\bin\Debug\net6.0\Core.dll
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Application\bin\Debug\net6.0\Core.pdb
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\Application.dll
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Application\obj\Debug\net6.0\ref\Application.dll

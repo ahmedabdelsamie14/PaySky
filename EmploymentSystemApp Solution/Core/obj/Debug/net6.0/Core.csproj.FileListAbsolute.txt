@@ -1,0 +1,24 @@
+D:\VisualProjects\EmploymentSystemApp Solution\Core\bin\Debug\net6.0\Core.deps.json
+D:\VisualProjects\EmploymentSystemApp Solution\Core\bin\Debug\net6.0\Core.dll
+D:\VisualProjects\EmploymentSystemApp Solution\Core\bin\Debug\net6.0\Core.pdb
+D:\VisualProjects\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\VisualProjects\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualProjects\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\VisualProjects\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\VisualProjects\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\VisualProjects\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\Core.dll
+D:\VisualProjects\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\refint\Core.dll
+D:\VisualProjects\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\Core.pdb
+D:\VisualProjects\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Core\bin\Debug\net6.0\Core.dll
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\Core.dll
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\hp\OneDrive\Desktop\PaySky Task\EmploymentSystemApp Solution\Core\obj\Debug\net6.0\ref\Core.dll

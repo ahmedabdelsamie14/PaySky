@@ -1,0 +1,512 @@
+{
+	"info": {
+		"_postman_id": "5f5449f4-c1b4-4e46-97a7-f5cd32853aa7",
+		"name": "EmploymentSystem",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "30673781"
+	},
+	"item": [
+		{
+			"name": "Data Seed",
+			"item": [
+				{
+					"name": "Register Employer 1",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"username\": \"Ahmed Abdelsamie\",\r\n  \"password\": \"123ahmed123\",\r\n  \"email\": \"Ahmed@gmail.com\",\r\n  \"location\": \"Cairo\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:62658/api/User/register/employer"
+					},
+					"response": []
+				},
+				{
+					"name": "Register Employer 2",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"username\": \"Mostafa Waleed\",\r\n  \"password\": \"123mostafa123\",\r\n  \"email\": \"Mostafa@gmail.com\",\r\n  \"location\": \"Giza\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:62658/api/User/register/employer"
+					},
+					"response": []
+				},
+				{
+					"name": "Register Applicant 1",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"username\": \"Anas Maged\",\r\n  \"password\": \"123anas123\",\r\n  \"email\": \"Anas@gmail.com\",\r\n  \"experience\": \"2 years\",\r\n  \"skills\": \".NET - OOP - DSA\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:62658/api/User/register/applicant"
+					},
+					"response": []
+				},
+				{
+					"name": "Register Applicant 2",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"username\": \"Selia Maged\",\r\n  \"password\": \"123selia123\",\r\n  \"email\": \"Selia@gmail.com\",\r\n  \"experience\": \"5 years\",\r\n  \"skills\": \"Java - OOP - DSA - Spring - Testing\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:62658/api/User/register/applicant"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Flow",
+			"item": [
+				{
+					"name": "Employer 1 Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"username\": \"Ahmed Abdelsamie\",\r\n  \"password\": \"123ahmed123\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:62658/api/User/login"
+					},
+					"response": []
+				},
+				{
+					"name": "Create Vacancy 1 EmployerOnly",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"title\": \"Flutter\",\r\n  \"description\": \"Mobile\",\r\n  \"maxApplications\": 10,\r\n  \"expireDate\": \"2024-07-20T06:57:15.105Z\",\r\n  \"isActive\": true,\r\n  \"createdDate\": \"2024-07-08T23:34:10.349Z\",\r\n  \"employerName\": \"Ahmed Abdelsamie\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:62658/api/Employer/CreateVacancy"
+					},
+					"response": []
+				},
+				{
+					"name": "Create Archieved Vacancy",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"title\": \"Devops\",\r\n  \"description\": \"Deployment\",\r\n  \"maxApplications\": 5,\r\n  \"expireDate\": \"2024-07-09T11:45:15.105Z\", //Make the expire date minute from date.now\r\n  \"isActive\": true,\r\n  \"createdDate\": \"2024-07-08T23:34:10.349Z\",\r\n  \"employerName\": \"Ahmed Abdelsamie\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:62658/api/Employer/CreateVacancy"
+					},
+					"response": []
+				},
+				{
+					"name": "Create Vacancy 2 EmployerOnly",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"title\": \"Backend\",\r\n  \"description\": \"Web\",\r\n  \"maxApplications\": 1,\r\n  \"expireDate\": \"2024-07-23T06:57:15.105Z\",\r\n  \"isActive\": true,\r\n  \"createdDate\": \"2024-07-08T23:34:10.349Z\",\r\n  \"employerName\": \"Ahmed Abdelsamie\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:62658/api/Employer/CreateVacancy"
+					},
+					"response": []
+				},
+				{
+					"name": "Update Vacancy Flutter",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"title\": \"IOS\",\r\n  \"description\": \"Mobile\",\r\n  \"maxApplications\": 3,\r\n  \"expireDate\": \"2024-07-28T08:01:16.177Z\",\r\n  \"isActive\": true,\r\n  \"createdDate\": \"2024-07-09T08:01:16.177Z\",\r\n  \"employerName\": \"Ahmed Abdelsamie\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:62658/api/Employer/UpdateVacancy?vacancyId=1",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "62658",
+							"path": [
+								"api",
+								"Employer",
+								"UpdateVacancy"
+							],
+							"query": [
+								{
+									"key": "vacancyId",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Employer 2 Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"username\": \"Mostafa Waleed\",\r\n  \"password\": \"123mostafa123\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:62658/api/User/login"
+					},
+					"response": []
+				},
+				{
+					"name": "Create Vacancy 4 EmployerOnly (2)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"title\": \"UI/UX\",\r\n  \"description\": \"Figma\",\r\n  \"maxApplications\": 10,\r\n  \"expireDate\": \"2024-07-13T06:57:15.105Z\",\r\n  \"isActive\": true,\r\n  \"createdDate\": \"2024-07-08T23:34:10.349Z\",\r\n  \"employerName\": \"Mostafa Waleed\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:62658/api/Employer/CreateVacancy"
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Vacancy 3",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:62658/api/Employer/DeleteVacancy?vacancyId=4",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "62658",
+							"path": [
+								"api",
+								"Employer",
+								"DeleteVacancy"
+							],
+							"query": [
+								{
+									"key": "vacancyId",
+									"value": "4"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Applicant Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"username\": \"Anas Maged\",\r\n  \"password\": \"123anas123\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:62658/api/User/login"
+					},
+					"response": []
+				},
+				{
+					"name": "Applicant Search Of Vaccancy By Title",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:62658/api/Applicant/ApplicantSearchForVacancy?title=Backend",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "62658",
+							"path": [
+								"api",
+								"Applicant",
+								"ApplicantSearchForVacancy"
+							],
+							"query": [
+								{
+									"key": "title",
+									"value": "Backend"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Apply To Vacancy As Applicant",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:62658/api/Applicant/ApplyToVacancy?vacancyTitle=Backend",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "62658",
+							"path": [
+								"api",
+								"Applicant",
+								"ApplyToVacancy"
+							],
+							"query": [
+								{
+									"key": "vacancyTitle",
+									"value": "Backend"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Apply To Vacancy As Applicant Before 24 Hours",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:62658/api/Applicant/ApplyToVacancy?vacancyTitle=IOS",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "62658",
+							"path": [
+								"api",
+								"Applicant",
+								"ApplyToVacancy"
+							],
+							"query": [
+								{
+									"key": "vacancyTitle",
+									"value": "IOS"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Applicant 2 Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"username\": \"Selia Maged\",\r\n  \"password\": \"123selia123\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:62658/api/User/login"
+					},
+					"response": []
+				},
+				{
+					"name": "Applicant Number 2 Try To Apply To Vacancy Full Applications",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:62658/api/Applicant/ApplyToVacancy?vacancyTitle=Backend",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "62658",
+							"path": [
+								"api",
+								"Applicant",
+								"ApplyToVacancy"
+							],
+							"query": [
+								{
+									"key": "vacancyTitle",
+									"value": "Backend"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Employer 1 Login Again",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"username\": \"Ahmed Abdelsamie\",\r\n  \"password\": \"123ahmed123\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:62658/api/User/login"
+					},
+					"response": []
+				},
+				{
+					"name": "Show Applicants Of Vacancy EmployerOnly",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:62658/api/Employer/ShowApplicantsOfVacancy?vacancyId=3",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "62658",
+							"path": [
+								"api",
+								"Employer",
+								"ShowApplicantsOfVacancy"
+							],
+							"query": [
+								{
+									"key": "vacancyId",
+									"value": "3"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get All Vacancies EmployerOnly",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "https://localhost:62658/api/Vacancy"
+					},
+					"response": []
+				},
+				{
+					"name": "Get Archieved Vacancies",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "https://localhost:62658/api/Employer/GetArchievedVacancies"
+					},
+					"response": []
+				}
+			],
+			"description": "تجربه اهم الcases"
+		},
+		{
+			"name": "Other",
+			"item": [
+				{
+					"name": "Get All Applications in system",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "https://localhost:62658/api/Application/"
+					},
+					"response": []
+				},
+				{
+					"name": "Get Application by ApplicationId",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "https://localhost:62658/api/Application/1"
+					},
+					"response": []
+				},
+				{
+					"name": "Get Applications By Applicant Name",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "https://localhost:62658/api/Application/by-applicantName/Anas Maged"
+					},
+					"response": []
+				},
+				{
+					"name": "Get All Employers In System",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "https://localhost:62658/api/Employer"
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
